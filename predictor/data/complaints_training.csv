@@ -1,0 +1,16 @@
+text,priority
+"System is down and nobody can work",high
+"Payment processing failed for all users",high
+"Security breach detected in login service",high
+"Production database is unreachable",high
+"Printer on the third floor is not working",low
+"Request for a new mouse and keyboard",low
+"Need access to the shared drive",low
+"Coffee machine is broken again",low
+"Dashboard loads slowly in the morning",medium
+"Report export takes too long",medium
+"Email notifications arrive late",medium
+"VPN disconnects every hour",medium
+"Laptop battery drains fast",low
+"Meeting room booking tool shows wrong times",medium
+"Urgent: customer data export blocked",high
